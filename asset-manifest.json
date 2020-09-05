@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ProjectBarony/static/css/main.db67773e.chunk.css",
+    "main.css": "/ProjectBarony/static/css/main.01ae4dbe.chunk.css",
     "main.js": "/ProjectBarony/static/js/main.2480a37e.chunk.js",
     "main.js.map": "/ProjectBarony/static/js/main.2480a37e.chunk.js.map",
     "runtime-main.js": "/ProjectBarony/static/js/runtime-main.d4448407.js",
@@ -9,10 +9,10 @@
     "static/js/2.fcc96bb9.chunk.js": "/ProjectBarony/static/js/2.fcc96bb9.chunk.js",
     "static/js/2.fcc96bb9.chunk.js.map": "/ProjectBarony/static/js/2.fcc96bb9.chunk.js.map",
     "index.html": "/ProjectBarony/index.html",
-    "precache-manifest.765897a7367545f587931bf04f1cbc46.js": "/ProjectBarony/precache-manifest.765897a7367545f587931bf04f1cbc46.js",
+    "precache-manifest.2f18508d4c9c607e6604882a6dde1ef0.js": "/ProjectBarony/precache-manifest.2f18508d4c9c607e6604882a6dde1ef0.js",
     "service-worker.js": "/ProjectBarony/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/ProjectBarony/static/css/2.11829350.chunk.css.map",
-    "static/css/main.db67773e.chunk.css.map": "/ProjectBarony/static/css/main.db67773e.chunk.css.map",
+    "static/css/main.01ae4dbe.chunk.css.map": "/ProjectBarony/static/css/main.01ae4dbe.chunk.css.map",
     "static/js/2.fcc96bb9.chunk.js.LICENSE.txt": "/ProjectBarony/static/js/2.fcc96bb9.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ProjectBarony/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d4448407.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.fcc96bb9.chunk.js",
-    "static/css/main.db67773e.chunk.css",
+    "static/css/main.01ae4dbe.chunk.css",
     "static/js/main.2480a37e.chunk.js"
   ]
 }
