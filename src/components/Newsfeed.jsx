@@ -8,7 +8,7 @@ export default function Newsfeed() {
   return (
     <div className="newsfeed">
       <h2>Global News Feed</h2>
-      <Accordion>
+      <Accordion defaultActiveKey="0">
         <Card>
           <Accordion.Toggle as={Card.Header} eventKey="0">
             <b>First Phase of Summer, 1998 AE</b>
