@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c69f85e78c86231fe704b74c6672d6f",
+    "revision": "97b8a582f646c976d16fb1462e8e4541",
     "url": "/ProjectBarony/index.html"
   },
   {
-    "revision": "063f35f65941fc43d4cf",
+    "revision": "42030d05b413338f7165",
     "url": "/ProjectBarony/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "d3e039b53e116e0f3f69",
+    "revision": "e424bf0dd335206e0aa1",
     "url": "/ProjectBarony/static/css/main.01ae4dbe.chunk.css"
   },
   {
-    "revision": "063f35f65941fc43d4cf",
-    "url": "/ProjectBarony/static/js/2.fcc96bb9.chunk.js"
+    "revision": "42030d05b413338f7165",
+    "url": "/ProjectBarony/static/js/2.85bd5ef1.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ProjectBarony/static/js/2.fcc96bb9.chunk.js.LICENSE.txt"
+    "url": "/ProjectBarony/static/js/2.85bd5ef1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3e039b53e116e0f3f69",
-    "url": "/ProjectBarony/static/js/main.5d22f5df.chunk.js"
+    "revision": "e424bf0dd335206e0aa1",
+    "url": "/ProjectBarony/static/js/main.9d1b3cc0.chunk.js"
   },
   {
     "revision": "65dc28bbfe77a79bb0b1",
